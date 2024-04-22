@@ -1,0 +1,6 @@
+com\phone\micro\data\controller\ProductController.class
+com\phone\micro\data\model\Producto.class
+com\phone\micro\data\PhoneApplication.class
+com\phone\micro\data\service\impl\ProductServiceImpl.class
+com\phone\micro\data\service\ProductService.class
+com\phone\micro\data\repository\ProductRepository.class
